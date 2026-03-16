@@ -1,0 +1,17 @@
+{
+  "name": "comp3133-lab6-101261942",
+  "version": "1.0.0",
+  "description": "COMP3133 Lab 6 - TypeScript and JavaScript Exercises",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node exercise-4/main.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["typescript", "javascript", "comp3133", "lab6"],
+  "author": "Adam Syed (101261942)",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
